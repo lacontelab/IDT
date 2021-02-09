@@ -9,7 +9,7 @@ Please follow the instructions provided by [PsychoPy](https://www.psychopy.org/d
  
 ## How to run
 
-**Step 1:*  _initializer.py_: creates a configuration text file (config_initialize.txt) that contains subject ID and experiment session number
+**Step 1:**  _initializer.py_: creates a configuration text file (config_initialize.txt) that contains subject ID and experiment session number
 
 **Step 2:** _OutOfScanner.py_ :runs the discounting task. This is intended to be run out of the MRI scanner, and titrates choices over seven delays to return indifference points and the discounting rate (k-value). The script creates a data folder for each participant and outputs a .csv file that logs the input.
 
