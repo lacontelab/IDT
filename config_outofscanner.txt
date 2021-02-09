@@ -1,0 +1,5 @@
+[SETTINGS]
+left_trigger = 1,2,3,4,left
+right_trigger = 6,7,8,9,right
+quitkeys = escape,q
+trigger = return,5

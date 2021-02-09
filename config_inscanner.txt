@@ -1,0 +1,6 @@
+[SETTINGS]
+TR = 2.0000
+right_trigger = 6,7,8,9
+left_trigger = 1,2,3,4
+trigger = 5
+quitkeys = escape,q
