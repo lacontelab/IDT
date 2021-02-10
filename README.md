@@ -1,5 +1,5 @@
 ﻿# Individualized Discounting Task (IDT) ####
-The is a [PsychoPy](https://github.com/psychopy/psychopy) implementation of the _IDT_ , an adaptive individualized delay discounting task for functional magnetic resonance imaging as described in [Koffarnus et al. 2017](http://www.sciencedirect.com/science/article/pii/S1053811917306717).
+The is a [PsychoPy](https://github.com/psychopy/psychopy) implementation of the _IDT_, an adaptive individualized delay discounting task for functional magnetic resonance imaging as described in [Koffarnus et al. 2017](http://www.sciencedirect.com/science/article/pii/S1053811917306717).
 
 ## Install
 Please follow the instructions provided by [PsychoPy](https://www.psychopy.org/download.html). If you are using [conda](https://docs.conda.io/en/latest/), you can simply use the following command to install:
