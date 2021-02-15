@@ -6,7 +6,7 @@ Please follow the instructions provided by [PsychoPy](https://www.psychopy.org/d
 
     conda env create -n py36_IDT -f IDT.yml
 
- 
+# test
 ## How to run
 
 **Step 1:**  _initializer.py_: creates a configuration text file (config_initialize.txt) that contains subject ID and experiment session number
